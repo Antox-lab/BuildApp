@@ -1,0 +1,107 @@
+[
+  {
+    "name": "putty_alpol",
+    "value": "Putty ALPOL Putz AG S23",
+    "img": "https://cdn.27.ua/190/9c/06/433158_5.jpeg",
+    "width": "Start, 20kg",
+    "price": 255
+  },
+  {
+    "name": "putty_baugut",
+    "value": "Putty BauGut SETENGIPS",
+    "img": "https://cdn.27.ua/190/21/62/532834_1.jpeg",
+    "width": "Finish, 25kg",
+    "price": 121.9
+  },
+  {
+    "name": "putty_knauf",
+    "value": "Putty Knauf MULTI-FINISH",
+    "img": "https://cdn.27.ua/190/f0/ff/127231_2.jpeg",
+    "width": "Finish, 20kg",
+    "price": 203.7
+  },
+  {
+    "name": "screed_sc5",
+    "value": "Screed POLIMIN СЦ-5",
+    "img": "https://cdn.27.ua/190/32/c5/275141_5.jpeg",
+    "width": "25kg",
+    "price": 85.4
+  },
+  {
+    "name": "screed_moment",
+    "value": "Screed Момент",
+    "img": "https://cdn.27.ua/190/17/63/399203_7.jpeg",
+    "width": "25kg",
+    "price": 90.5
+  },
+  {
+    "name": "glue_polimin",
+    "value": "Glue Polimin ПБ-55",
+    "img": "https://cdn.27.ua/190/1a/fc/137980_2.jpeg",
+    "width": "25kg",
+    "price": 89.9
+  },
+  {
+    "name": "glue_master",
+    "value": "Glue Master Carcass",
+    "img": "https://cdn.27.ua/190/a4/42/435266_1.jpeg",
+    "width": "25kg",
+    "price": 85.9
+  },
+  {
+    "name": "glue_moment",
+    "value": "Glue Момент",
+    "img": "https://cdn.27.ua/190/22/68/467560_7.jpeg",
+    "width": "25kg",
+    "price": 99.5
+  },
+  {
+    "name": "cement_400",
+    "value": "Cement BauGut ШПЦ III/A 400",
+    "img": "https://cdn.27.ua/190/5f/a0/2449312_3.jpeg",
+    "width": "25kg",
+    "price": 66
+  },
+  {
+    "name": "cement_500",
+    "value": "Cement BauGut ПЦ II/A-Ш 500",
+    "img": "https://cdn.27.ua/190/d1/30/577840_7.jpeg",
+    "width": "25kg",
+    "price": 76
+  },
+  {
+    "name": "glue_cm11",
+    "value": "Glue for tile Ceresit CM-11",
+    "img": "https://cdn.27.ua/190/6c/f8/27896_2.jpeg",
+    "width": "25kg",
+    "price": 138
+  },
+  {
+    "name": "glue_cm12",
+    "value": "Glue for tile Ceresit CM-12",
+    "img": "https://cdn.27.ua/190/7b/97/31639_1.jpeg",
+    "width": "25kg",
+    "price": 179.5
+  },
+  {
+    "name": "glue_gips",
+    "value": "Glue for drywall Knauf PERLFIX",
+    "img": "https://cdn.27.ua/190/e6/60/124512_2.jpeg",
+    "width": "30kg",
+    "price": 160.4
+  },
+  {
+    "name": "glue_isol_ceresit",
+    "value": "Glue for isol. Ceresit CT 81",
+    "img": "https://cdn.27.ua/190/c4/e4/3196132_1.jpeg",
+    "width": "25kg",
+    "price": 118.9
+  },
+  {
+    "name": "glue_isol_moment",
+    "value": "Glue for isol. Момент",
+    "img": "https://cdn.27.ua/190/3b/c7/146375_2.jpeg",
+    "width": "25kg",
+    "price": 118.5
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "grunt_in",
+    "value": "Grunt Master Iner",
+    "img": "https://cdn.27.ua/190/82/43/98883_1.jpeg",
+    "width": "10L",
+    "price": 114.1
+  },
+  {
+    "name": "grunt_out",
+    "value": "Grunt Master Universal",
+    "img": "https://cdn.27.ua/190/fe/42/458306_8.jpeg",
+    "width": "10L",
+    "price": 99
+  },
+  {
+    "name": "grunt_fungicind",
+    "value": "Grunt Master Fungiecid",
+    "img": "https://cdn.27.ua/190/05/70/853360_1.jpeg",
+    "width": "5L",
+    "price": 160.3
+  }
+]

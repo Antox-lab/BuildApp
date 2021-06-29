@@ -1,0 +1,14 @@
+[
+  {
+    "name": "build_materials",
+    "value": "Building materials"
+  },
+  {
+    "name": "build_mix",
+    "value": "Building mixes"
+  },
+  {
+    "name": "build_chemical",
+    "value": "Building chemicals"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "bricks_row",
+    "value": "Ordinary brick (red)",
+    "img": "https://epicentrk.ua/upload/iblock/1f3/3970.jpg",
+    "width": "250х120х65mm",
+    "price": 4
+  },
+  {
+    "name": "bricks_white",
+    "value": "Silicate brick",
+    "img": "https://epicentrk.ua/upload/iblock/a92/3971.jpg",
+    "width": "250х120х65mm",
+    "price": 6
+  },
+  {
+    "name": "bricks_out",
+    "value": "Facing brick",
+    "img": "https://epicentrk.ua/upload/iblock/95e/3973.jpg",
+    "width": "250х120х65mm",
+    "price": 8.2
+  },
+  {
+    "name": "gips_3012",
+    "value": "Drywall 3000x1200",
+    "img": "https://cdn.27.ua/main/243/hipsokarton.jpg",
+    "width": "3000x1200x12.5mm",
+    "price": 144.2
+  },
+  {
+    "name": "gips_2512",
+    "value": "Drywall 2500x1200",
+    "img": "https://cdn.27.ua/main/243/hipsokarton.jpg",
+    "width": "2500x1200x12.5mm",
+    "price": 122
+  },
+  {
+    "name": "gips_2012",
+    "value": "Drywall 2000x1200",
+    "img": "https://cdn.27.ua/main/243/hipsokarton.jpg",
+    "width": "2000x1200x12.5mm",
+    "price": 186
+  },
+  {
+    "name": "gips_1506",
+    "value": "Drywall 1500x600",
+    "img": "https://cdn.27.ua/main/243/hipsokarton.jpg",
+    "width": "1500x600x12.5mm",
+    "price": 55.5
+  }
+]
